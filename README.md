@@ -1,4 +1,28 @@
-# identity-card-crack-tools
+<h1 align="center">identity-card-crack-tools</h1>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/github/stars/7coinSec/identity-card-crack-tools?style=for-the-badge&logo=appveyor">
+</div>
+
+
+<h3 align="center">一个用于枚举可用SFZ号的工具</h3>
+
+
+<hr>
+	<br>
+<div align="center">
+		<img width="200" src="images/logo.jpg">
+</div>
+<h2 align="center">该工具由7coin安全团队强力驱动</h2>
+<hr>
+	<br>
+	<br>
+# 
+
+
+
 ## 前言
 
 一个用于枚举可用SFZ号的工具，工具原理十分简单，即使原理很简单，仍然还有一些bug，日后再做相关完善。
